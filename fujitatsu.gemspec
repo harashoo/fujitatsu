@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "A gem that can act like Tatsuya"
   spec.description   = "A gem that can act like Tatsuya"
-  spec.homepage      = "hoge@example.com"
+  spec.homepage      = "https://example.com"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "hoge@example.com"
-  spec.metadata["changelog_uri"] = "hoge@example.com"
+  spec.metadata["source_code_uri"] = "https://example.com"
+  spec.metadata["changelog_uri"] = "https://example.com"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
